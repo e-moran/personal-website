@@ -29,7 +29,7 @@ export default function Home() {
               href="https://github.com/e-moran"
             >
               <Image
-                src="/logo-github.svg"
+                src="/images/logo-github.svg"
                 width={20}
                 height={20}
                 alt="Github logo"
@@ -44,7 +44,7 @@ export default function Home() {
               href="https://twitter.com/e_power_moran"
             >
               <Image
-                src="/logo-twitter.svg"
+                src="/images/logo-twitter.svg"
                 width={20}
                 height={20}
                 alt="Twitter logo"
@@ -59,7 +59,7 @@ export default function Home() {
               href="https://www.linkedin.com/in/eoin-power-moran-4259331b1/"
             >
               <Image
-                src="/logo-linkedin.svg"
+                src="/images/logo-linkedin.svg"
                 width={20}
                 height={20}
                 alt="LinkedIn logo"
@@ -74,7 +74,7 @@ export default function Home() {
               href="mailto:hello@eoinmoran.com"
             >
               <Image
-                src="/mail-sharp.svg"
+                src="/images/mail-sharp.svg"
                 width={20}
                 height={20}
                 alt="Mail icon"
