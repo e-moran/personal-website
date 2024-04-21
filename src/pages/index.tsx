@@ -22,7 +22,7 @@ export default function Home() {
         <h1 className="text-sm font-light border-b border-grey-900">
           Get in touch
         </h1>
-        <ul className="flex gap-2">
+        <ul className="flex flex-col sm:flex-row gap-2">
           <li>
             <a
               className="flex flex-row gap-1"
