@@ -10,7 +10,7 @@ export default function Home() {
       <div className="text-center flex flex-col gap-16">
         <h1 className="text-3xl">Hi I'm Eoin, nice to meet you!</h1>
         <div>
-          I'm a Software Engineer, Globetrotter and Photographer from 🇮🇪
+          I'm a Software Engineer, Globetrotter and amateur Photographer from 🇮🇪
         </div>
         <div>
           I'm currently working as a Product Engineer in{" "}
