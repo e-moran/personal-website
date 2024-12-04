@@ -13,9 +13,8 @@ export default function Home() {
           I'm a Software Engineer, Globetrotter and amateur Photographer from 🇮🇪
         </div>
         <div>
-          I'm currently working as a Product Engineer in{" "}
-          <a href="https://evervault.com" className="text-purple-900">Evervault</a> building privacy-first
-          developer tools in Rust.
+          I'm currently working as an Product in{" "}
+          <a href="https://arcjet.com" className="text-grey-900">Arcjet</a> building tools to help developers secure their web-apps.
         </div>
       </div>
       <div className="flex flex-col gap-1">
